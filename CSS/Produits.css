@@ -1,0 +1,51 @@
+body section{
+    background-color: lightgrey;
+}
+
+h2 {
+    color: darkgoldenrod;
+}
+
+h4 {
+    color: darkred;
+}
+
+.hyundai {
+    width: 100%;
+    margin-right: 600px;
+}
+
+.peugeot {
+    width: 100%;
+    margin-right: 600px;
+}
+
+.renault {
+    width: 100%;
+    margin-right: 600px;
+}
+
+.mercedes {
+    width: 100%;
+    margin-right: 600px; 
+}
+
+.BMW {
+    width: 100%;
+    margin-right: 600px; 
+}
+
+.citroen {
+    width: 100%;
+    margin-right: 600px; 
+}
+
+.audi {
+    width: 100%;
+    margin-right: 600px; 
+}
+
+.volkswagen {
+    width: 100%;
+    margin-right: 600px;  
+}
